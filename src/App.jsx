@@ -12,6 +12,8 @@ function App() {
     <>
         <GradientText>Sanket Dhumal</GradientText>
         {/* <BlurText text="Isn't this so cool?!" className="custom-class" delay={50} /> */}
+
+        <h3>Sanket dhumal</h3>
     </>
   )
 }
