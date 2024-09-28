@@ -6,14 +6,9 @@ import GradientText from './components/GradientText'
 
 
 function App() {
-  const [count, setCount] = useState(0)
-
-  return (
+    return (
     <>
-        <GradientText>Sanket Dhumal</GradientText>
-        {/* <BlurText text="Isn't this so cool?!" className="custom-class" delay={50} /> */}
-
-        <h3>Sanket dhumal</h3>
+        <h1>Sanket Dhumal</h1>
     </>
   )
 }
